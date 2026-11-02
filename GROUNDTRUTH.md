@@ -12,7 +12,7 @@ The app (`PreceptorOS APP`) is the door: the guardian. It defines the conditions
 
 ## The node territory
 
-Every companion (for example aimilios with Receipt Ghostbuster) holds a private territory: their product and their local AI chunk live in their node. That node is their castle. The house never touches its internal code — we only measure how it connects to the ecosystem.
+Every companion (for example, a collaborator deploying a local AI tool) holds a private territory: their product and their local AI chunk live in their node. That node is their castle. The house never touches its internal code — we only measure how it connects to the ecosystem.
 
 ## The ephemeral account flow (the golden rule)
 

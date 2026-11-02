@@ -19,6 +19,7 @@ AGENTS.md            contract for house agents working here
 CONTRIBUTING.md      how humans and agents contribute
 PRECEPTOR.md         the office of this repo's preceptor
 COMPANIONS.md        the registry of declared companions
+companions/template/  the universal template to copy (equal door for every companion)
 companions/<name>/   one folder per companion
   DECLARATION.md    what their project is, what it contributes
   STATE.md          measured state (figures, tests, cost, dates)
