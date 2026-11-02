@@ -14,6 +14,10 @@ You are not a PR contributor to the core repositories. You are a **companion**: 
 4. **A docs-only PR titled REQUIERE_FIRMA?** Welcome. It is covered by the permanent ODD FIRMO (decree 2026-10-28). A text-only PR (declaration, measurement) needs no piece-by-piece signature; the Mesa merges it citing the ODD FIRMO in the receipt.
 5. **METHOD.md?** It no longer exists. The canon is `CONTRIBUTING.md` + `AGENTS.md` + `PRECEPTOR.md`, adapted to this door.
 
+## The ground truth
+
+Before anything you build touches the ecosystem, read `GROUNDTRUTH.md` at the root of this repository (decree 2026-11-02): the window (the static web, zero external requests on load), the door (the app and its conditions of use), the node territory (yours — the house never touches your internal code, only how you connect), and the ephemeral account flow (every interaction of an ephemeral user is signed — HITL, Ed25519 — under the host node's conditions, travelling in `atlas.sobre/1` packets under 1024 bytes). Every integration proposal is reviewed against its four doctrinal checkpoints.
+
 ## Your first move (the only one that matters now)
 
 Write, in your own words, from your own measurements:

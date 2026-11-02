@@ -14,6 +14,7 @@ A companion is a **human collaborator with their own project** who wants to work
 
 ```
 README.md            this door
+GROUNDTRUTH.md      the architectural truth: the window, the door and the node (decree 2026-11-02)
 AGENTS.md            contract for house agents working here
 CONTRIBUTING.md      how humans and agents contribute
 PRECEPTOR.md         the office of this repo's preceptor
@@ -29,5 +30,7 @@ odd/STATUS.md       the board
 ## For companions
 
 Read CONTRIBUTING.md. Declare your project in companions/<your-name>/, measure what you have, and open a docs-only PR titled REQUIERE_FIRMA. A house agent (the Navigator) will read your declaration and propose doctrinal improvements — you decide what gets signed.
+
+Before proposing anything that connects your node to the ecosystem, read GROUNDTRUTH.md: the window (static web, zero external requests on load), the door (the app and its conditions), your node territory, and the ephemeral account flow. Its four doctrinal checkpoints apply to every integration PR.
 
 The public doctrine of the ecosystem lives in the study corpus. What is private stays private; parts of it open under request to the Sovereign.
