@@ -3,6 +3,7 @@
 | Item | State |
 |------|-------|
 | Registry open | 2026-11-02 |
-| First companion (aimilios) | waiting for signed DECLARATION.md |
+| Welcome served to aimilios | 2026-11-02 |
+| First companion (aimilios) | waiting for signed DECLARATION.md + STATE.md |
 | Collaborator access for aimilios | pending — Sovereign's hands (GitHub username needed) |
 | Navigator first pass | blocked until declaration is signed |
