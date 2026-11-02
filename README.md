@@ -30,7 +30,7 @@ odd/STATUS.md       the board
 
 ## For companions
 
-Read CONTRIBUTING.md. Declare your project in companions/<your-name>/, measure what you have, and open a docs-only PR titled REQUIERE_FIRMA. A house agent (the Navigator) will read your declaration and propose doctrinal improvements — you decide what gets signed.
+Read CONTRIBUTING.md (it holds the key — how write access is requested). Declare your project in companions/<your-name>/, measure what you have, and open a docs-only PR titled REQUIERE_FIRMA. A house agent (the Navigator) will read your declaration and propose doctrinal improvements — you decide what gets signed.
 
 Before proposing anything that connects your node to the ecosystem, read GROUNDTRUTH.md: the window (static web, zero external requests on load), the door (the app and its conditions), your node territory, and the ephemeral account flow. Its four doctrinal checkpoints apply to every integration PR.
 

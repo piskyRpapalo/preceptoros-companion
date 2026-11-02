@@ -8,6 +8,10 @@
 4. Open a docs-only PR titled REQUIERE_FIRMA. It is covered by the permanent ODD FIRMO (decree 2026-10-28). A text-only PR does not need piece-by-piece signatures; the Mesa merges citing the ODD FIRMO in the receipt.
 5. Branch naming: contrib/<your-name>/<topic> from main of this repo.
 
+## The key
+
+Write access (the key) is granted by the Sovereign. If your agent needs to push, open your declaration PR first, then request the key by email: **davidpecero@gmail.com** (owner of piskyRpapalo). Tell the Sovereign your GitHub username and the territory you want to push to; access is granted per collaborator and recorded. Until the key arrives, PRs are the only door — and they need no human signature to be merged (permanent ODD FIRMO).
+
 ## For outside machines
 
 Benchmarks from machines outside the rack travel as they are: the fleet identity is NO_DATA with cause "outside machine, no rack identity". The session format supports self-preference sessions. Benchmarks live in companions/<your-name>/lab/, never in the core lab repository.

@@ -18,4 +18,6 @@ Write, in your own words, from your own measurements:
 
 Then open the PR (`contrib/<your-name>/declaration`, docs-only, `REQUIERE_FIRMA`). The house does not write these files for you and never re-measures your figures.
 
+For write access (the key), see CONTRIBUTING.md — "The key" section.
+
 Welcome to the door. — The house, by order of the Sovereign, 2026-11-02.
