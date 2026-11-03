@@ -4,7 +4,7 @@ From the house to the companion. This is the handoff: read it, then act.
 
 ## What the house decided about you
 
-You are not a PR contributor to the core repositories. You are a **companion**: a human with their own project who works under the PreceptorOS doctrine. The door for that is this repository. Your folder is `companions/<your-name>/`.
+You are not a PR contributor to the core repositories. You are a **companion**: a human with their own project who works under the PreceptorOS doctrine. The door for that is this repository. Your folder is `companions/<your-name>/`. The map of the repos and your accesses is `GUIDE.md` at the root — read it with this file.
 
 ## The ground truth
 
@@ -16,7 +16,7 @@ Write, in your own words, from your own measurements:
 - `DECLARATION.md` — what your project is, what it solves, for whom, stack, current state.
 - `STATE.md` — your measured figures exactly as measured: accuracy, tests, cost, **run date, machine**. What you have not measured: declare `NO_DATA` with a cause. Never invent.
 
-Then open the PR (`contrib/<your-name>/declaration`, docs-only, `REQUIERE_FIRMA`). The house does not write these files for you and never re-measures your figures.
+Then open the PR (`contrib/<your-name>/declaration`, docs-only, titled `HITL`). The house does not write these files for you and never re-measures your figures.
 
 For write access (the key), see CONTRIBUTING.md — "The key" section.
 

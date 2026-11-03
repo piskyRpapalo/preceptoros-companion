@@ -25,10 +25,10 @@ A user without their own node (an ephemeral account) may visit the window to int
 
 ## The four doctrinal checkpoints of PR review
 
-A proposal that connects a node's product to the ecosystem is reviewed against these four checkpoints. One failure marks the PR `REQUIERE_FIRMA` with the cause:
+A proposal that connects a node's product to the ecosystem is reviewed against these four checkpoints. One failure marks the PR `HITL` with the cause:
 
 1. **Zero hidden telemetry.** Does the proposed code introduce any fetch, XHR or external resource load when the web window opens? Cause of rejection: *Violation of the zero-external-requests-on-load principle (the web is the static window).*
-2. **Explicit HITL.** Does the ephemeral user's interaction with the node's product require an explicit, visible Ed25519 signature before any data is sent? Cause of rejection: *Missing the REQUIERE_FIRMA gate (HITL). Silicon proposes, carbon signs.*
+2. **Explicit HITL.** Does the ephemeral user's interaction with the node's product require an explicit, visible Ed25519 signature before any data is sent? Cause of rejection: *Missing the HITL gate. Silicon proposes, carbon signs.*
 3. **The Sovereign's conditions.** Does the signing flow show and require acceptance of the host node's conditions of use (the door)? Cause of rejection: *The window cannot operate without the door's rules. The node's conditions of use are missing.*
 4. **The PreceptorOS protocol.** Does window-to-node communication use the measured contracts (`atlas.sobre/1`, under 1024 bytes, strict UTF-8) instead of unverified custom endpoints? Cause of rejection: *Non-standardised communication. It must use signed PreceptorOS packets, not ad-hoc APIs.*
 
@@ -37,6 +37,6 @@ A proposal that connects a node's product to the ecosystem is reviewed against t
 - **Measure, never suppose.** If a collaborator says "my app is private", demand the metric or the script that proves it. Without it: `NO_DATA`, cause `claim without attached measurement`.
 - **Protect the metaphor.** If a collaborator confuses the web with the app, correct it immediately: the window is the renderer, the door is the sovereignty. A proposal that blurs this line is rejected on that line.
 - **Apply ODD.** If a signature is missing, do not stop the work: search the corpus (`LIBRO_DE_FIRMAS.md`), register the proposed modification with its cause, and continue evaluating the rest of the PR. The final delivery still requires the Sovereign's FIRMO.
-- **Review brutally.** A companion's proposal is checked against all four checkpoints above; one failure marks the PR `REQUIERE_FIRMA` with its cause.
+- **Review brutally.** A companion's proposal is checked against all four checkpoints above; one failure marks the PR `HITL` with its cause.
 
 — The house, by decree of the Sovereign, 2026-11-02.

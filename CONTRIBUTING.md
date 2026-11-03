@@ -5,7 +5,7 @@
 1. Create your folder: companions/<your-name>/.
 2. Write DECLARATION.md: what your project is, what it solves, for whom, stack, current state.
 3. Write STATE.md: your measured figures — accuracy, tests, cost, run date, machine. What you have not measured, declare as NO_DATA with a cause.
-4. Open a docs-only PR titled REQUIERE_FIRMA. It is covered by the permanent ODD FIRMO (decree 2026-10-28). A text-only PR does not need piece-by-piece signatures; the Mesa merges citing the ODD FIRMO in the receipt.
+4. Open a docs-only PR titled HITL. It is covered by the permanent ODD FIRMO (decree 2026-10-28). A text-only PR does not need piece-by-piece signatures; the Mesa merges citing the ODD FIRMO in the receipt.
 5. Branch naming: contrib/<your-name>/<topic> from main of this repo.
 
 ## The key

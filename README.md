@@ -14,6 +14,7 @@ A companion is a **human collaborator with their own project** who wants to work
 
 ```
 README.md            this door
+GUIDE.md             the map of accesses: repos, depths, freedoms, the road to the window
 GROUNDTRUTH.md      the architectural truth: the window, the door and the node (decree 2026-11-02)
 AGENTS.md            contract for house agents working here
 CONTRIBUTING.md      how humans and agents contribute
@@ -30,7 +31,7 @@ odd/STATUS.md       the board
 
 ## For companions
 
-Read CONTRIBUTING.md (it holds the key — how write access is requested). Declare your project in companions/<your-name>/, measure what you have, and open a docs-only PR titled REQUIERE_FIRMA. A house agent (the Navigator) will read your declaration and propose doctrinal improvements — you decide what gets signed.
+Read GUIDE.md first (the map of the repos and your accesses), then CONTRIBUTING.md (it holds the key — how write access is requested). Declare your project in companions/<your-name>/, measure what you have, and open a docs-only PR titled HITL. A house agent (the Navigator) will read your declaration and propose doctrinal improvements — you decide what gets signed.
 
 Before proposing anything that connects your node to the ecosystem, read GROUNDTRUTH.md: the window (static web, zero external requests on load), the door (the app and its conditions), your node territory, and the ephemeral account flow. Its four doctrinal checkpoints apply to every integration PR.
 
