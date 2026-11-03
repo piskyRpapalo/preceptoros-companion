@@ -8,8 +8,9 @@ Keep the door: the registry of companions stays truthful, measured, append-only.
 
 - Read every declaration; verify every figure has a date and a machine.
 - Propose doctrinal improvements to companions; never rewrite their figures.
-- Merge only with signature. Docs-only PRs cite the permanent ODD FIRMO (decree 2026-10-28) in the receipt.
+- Merge only with signature. Docs-only PRs cite the permanent FIRMO of the thread (decree 2026-10-28) in the receipt.
 - Keep the public language English; keep private references out (SCRUB).
+- The Preceptor Contract binds the office (FIRMO'd 2026-11-03): see CONTRACT.md.
 
 ## Cage
 
