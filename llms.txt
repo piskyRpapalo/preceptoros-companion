@@ -1,0 +1,8 @@
+PreceptorOS companion is the public contribution house of the ecosystem; it is not the APP.
+INDEX: README.md#L1; CONTRACT.md#L1; GROUNDTRUTH.md#L1; GUIDE.md#L1; PRECEPTOR.md#L1; COMPANIONS.md#L1; AGENTS.md#L1.
+BUDGET: 8192.
+STATE: contribution and receipt records, not live hardware; unmeasured = NO_DATA with cause.
+SCRUB: figures and paths stay; private names and credentials go.
+DEPTH: declare your reading depth (0-4) in AGENTS.md before parsing; beyond declared depth is NO_DATA with cause.
+REREAD: loaded is loaded; do not re-fetch what you already hold.
+AUTHORITY: the Sovereign signs (FIRMO); silicon proposes only.
