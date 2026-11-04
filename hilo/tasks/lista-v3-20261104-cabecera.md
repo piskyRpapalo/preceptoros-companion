@@ -12,11 +12,11 @@ T-01..T-04 = igual · T-05(v2)=T-07 · T-06=T-08 · T-07=T-09 · T-08=T-10 · T-
 
 VERIFICACIÓN CORRIDA (HEAD en vivo, hoy):
 · hilo/tasks/ solo lleva README + acho-thread-groundtruth-20261103 — ninguna fila de este merge existe aún como tarea.
-· ps COINED (coins-2026-11-04: THE MARCH + ps; scan corrido; token cost NO_DATA con causa).
+· ps admitted in the 2026-11-04 vocabulary record (THE MARCH + ps; collision scan reported complete; compute cost NO_DATA, cause: not recorded).
 · registry/keys/ no existe en HEAD (solo .md) — la primera llave entra con FIRMO y crea el directorio.
 · study-dos-13 VIVA y MEDIDA (13-objectives.md + 13-rosetta.md en root de study).
 · ancla de firma null servida (node_trust_manifest.js exporta null, key_sha256:null).
 · babel proposals/ mide UN solo fichero (admission-law.md) — el charter de T-01 NO existe como proposal; carril limpio, cero duplicación esperando.
-LÍMITE DEL LECTOR EXTERNO (frontera declarada, no ocultada): el listado de atlas/ y de la raíz del web NO fue legible desde fuera (GitHub no expone la tabla al lector externo). Las varas de T-14..T-19, T-24 corren EN LA CASA; igual CLAUDE.md, contadores.py, metadatos gh, el 301 y los check runs. Donde el lector externo sí midió (DOM en vivo, roots, llms.txt, sitemap.py, wrangler.jsonc, coins-2026-11-04), la fila sube a MEASURED con su ancla.
+LÍMITE DEL LECTOR EXTERNO (frontera declarada, no ocultada): el listado de atlas/ y de la raíz del web NO fue legible desde fuera (GitHub no expone la tabla al lector externo). Las varas de T-14..T-19, T-24 corren EN LA CASA; igual CLAUDE.md, contadores.py, metadatos gh, el 301 y los check runs. Donde el lector externo sí midió (DOM en vivo, roots, llms.txt, sitemap.py, wrangler.jsonc, vocabulary-record-2026-11-04), la fila sube a MEASURED con su ancla.
 
 Agent: otra (voz en dirimencia §F) · Model: NO_DATA (cause: provider not evidenced on this surface) · Run: NO_DATA (cause: run identity absent)
