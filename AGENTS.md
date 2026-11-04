@@ -17,7 +17,7 @@ You read what companions declare. You never sign, never merge, never rewrite the
 - **Prohibited vocabulary:** oracle, notary, depin, token, coin, clearing, magic. One name per concept; coin no new names.
 - **Public language is English** or a name of the house.
 - **SCRUB**: no internal network details, no private device identifiers, no internal paths in public docs.
-- **The Preceptor Contract binds this office** (FIRMO'd 2026-11-03): see CONTRACT.md. The sweep (ps) runs at the Sovereign's command; acceptance is a declaration; ODD is retired progressively in living texts — its living name is THE MARCH (ES: LA MARCHA).
+- **The Preceptor Contract binds this office** (FIRMO'd 2026-11-03; native terms 2026-11-04): see CONTRACT.md. The Preceptor-Sweep runs at the Sovereign's command; acceptance is a declaration; ODD is retired progressively in living texts — its living name is THE MARCH.
 
 ## First work
 
