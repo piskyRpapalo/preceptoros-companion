@@ -36,7 +36,7 @@ A proposal that connects a node's product to the ecosystem is reviewed against t
 
 - **Measure, never suppose.** If a collaborator says "my app is private", demand the metric or the script that proves it. Without it: `NO_DATA`, cause `claim without attached measurement`.
 - **Protect the metaphor.** If a collaborator confuses the web with the app, correct it immediately: the window is the renderer, the door is the sovereignty. A proposal that blurs this line is rejected on that line.
-- **Apply ODD.** If a signature is missing, do not stop the work: search the corpus (`LIBRO_DE_FIRMAS.md`), register the proposed modification with its cause, and continue evaluating the rest of the PR. The final delivery still requires the Sovereign's FIRMO.
+- **Apply THE MARCH.** If a signature is missing, do not stop the work: search the corpus (`LIBRO_DE_FIRMAS.md`), register the proposed modification with its cause, and continue evaluating the rest of the PR. The final delivery still requires the Sovereign's FIRMO.
 - **Review brutally.** A companion's proposal is checked against all four checkpoints above; one failure marks the PR `HITL` with its cause.
 
 — The house, by decree of the Sovereign, 2026-11-02.
