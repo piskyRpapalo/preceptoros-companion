@@ -25,8 +25,7 @@ companions/<name>/   one folder per companion
   DECLARATION.md    what their project is, what it contributes
   STATE.md          measured state (figures, tests, cost, dates)
   lab/              their benchmarks (outside machines welcome)
-odd/tasks/           collaboration tasks
-odd/STATUS.md       the board
+hilo/tasks/          collaboration tasks (renamed from odd/tasks by decree 2026-11-03; the old board line retired — the live pulse is buzon#54 · EL NORTE)
 ```
 
 ## For companions
