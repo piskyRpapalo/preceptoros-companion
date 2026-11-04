@@ -19,7 +19,7 @@ This organization is readable cold at five declared depths (canonical budgets: s
 
 ## How to move
 
-Fork → branch contrib/<your-name>/<topic> → docs-only PR into this repository. Your PR carries its own measurement — command, machine, date — or NO_DATA with a cause. It merges under the standing ODD sign-off (decree 2026-10-28); the Navigator answers your questions in the thread.
+Fork → branch contrib/<your-name>/<topic> → docs-only PR into this repository. Your PR carries its own measurement — command, machine, date — or NO_DATA with a cause. It merges under the standing THE MARCH sign-off (decree 2026-10-28; renamed by decree 2026-11-03); the Navigator answers your questions in the thread.
 
 ## Your freedoms — all of them
 
