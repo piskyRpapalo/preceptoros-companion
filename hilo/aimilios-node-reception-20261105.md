@@ -29,7 +29,7 @@ naming. Rows ≤ 1,024 B; append-only.
 
 ## House rules for this card
 
-- The 4 GROUNDTRUTH checkpoints govern any window↔node connection: zero hidden telemetry · explicit HITL EdEd25519 signature by the ephemeral user before data travels · host node's conditions shown and accepted · signed atlas.sobre/1 packets < 1,024 B, strict UTF-8, via the protocol contract.
+- The 4 GROUNDTRUTH checkpoints govern any window↔node connection: zero hidden telemetry · explicit HITL Ed25519 signature by the ephemeral user before data travels · host node's conditions shown and accepted · signed atlas.sobre/1 packets < 1,024 B, strict UTF-8, via the protocol contract.
 - Grant rule: measured claims only; the compliance claim itself stays NO_DATA until a human lawyer signs it.
 - Silicon proposes; carbon signs. Each landed figure stays exactly as measured; the harness reads it as MEASURED.
 
