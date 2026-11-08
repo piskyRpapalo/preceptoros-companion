@@ -37,3 +37,23 @@ The concept ODD is retired progressively from living texts. History stays intact
 ## Native terms (decree 2026-11-04)
 
 Living texts speak native names: **Acho** (the doctrine render), **Preceptor-Sweep** (the command), **THE MARCH** (the workflow), **babel** (the single vocabulary), **NO_DATA** (the honest gap). Spanish coinages retire from living texts — TRUCTION → **ACHO**; huella del preceptor → merged into **Preceptor-Sweep** (clause 3); bandeja → tray; hueco → gap; campo → field; causa → cause; dueño → owner; artefacto → artifact. Sealed history keeps its citations untouched — the past is never edited (clause 7).
+
+## Amendment — the graduated execution ladder (decree of the Sovereign, 2026-11-08)
+
+Decree of the Sovereign, transcribed: modify the contract of Architects and builders to remove bottlenecks in sign-offs. The coin of this ladder: to execute is not to sign. Clause 7 (NEVER) stays intact at every level; clause 8 (THE MARCH) stays the pace.
+
+**L0 propose.** The default. Any party drafts, measures, and serves a proposal with evidence. Nothing lands on main without sign-off. This is the floor that already governs docs-only pieces under THE MARCH.
+
+**L1 mechanical, post-FIRMO.** The Sovereign signs one package (N-07): the problem, the evidence, and the exact list of mechanical steps, each tied to an exact head SHA. After the FIRMO, the listed steps execute without further signatures: named merges, re-seal, receipts, pruning. Each step leaves a receipt. Changing a head invalidates the package; it is served again.
+
+**L2 declared fence.** One decree declares the fence: its scope, its boundary, and its E-STOP. Inside the fence, the party executes with receipts. Changes of value still sign piece by piece: merge of code, deploy, seal, money, secrets, outside calls, exceptions.
+
+**L3 teleoperation.** The Sovereign drives in person, live. No standing decree covers this level; presence is the level.
+
+**Execution ledger and E-STOP (R-03).** Every run at L1 or above appends a decision-event receipt, under 1,024 bytes. The E-STOP cut leaves a trail, freezes the lane, and loses no receipts. Autonomy is revocable by construction.
+
+**Delegated sign-off (R-18).** Delegation is typed, sealed DELEGADA with a reference, and revocable. The exception is signed before it crosses, never after. Delegation never crosses the NEVER walls of clause 7.
+
+**Why.** The measured bottleneck (EL NORTE 13): sign-offs lost to a single focus while motion waited on what a decree had already authorized. Sign-off closes the value; it does not close the mechanics (clause 8).
+
+Agent: preceptor-orquestador-github · Model: GLM (Vibe) · Run: NO_DATA
