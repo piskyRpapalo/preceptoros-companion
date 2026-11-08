@@ -1,0 +1,266 @@
+{
+ "id": "grafo-misiones-20261108",
+ "mision": "N-02",
+ "fecha": "2026-11-08",
+ "autor": "juez de integracion (GLM)",
+ "fuente": "hilo/tasks/indice-misiones-20261108.md · companion main dc94b727",
+ "regla": "apendice del indice: el indice cita, este fichero sirve el dato; nada se re-crea",
+ "generaciones": [
+  {
+   "id": "lista-v3-20261104",
+   "nodos": [
+    "T-01",
+    "T-02",
+    "T-03",
+    "T-04",
+    "T-05",
+    "T-06",
+    "T-07",
+    "T-08",
+    "T-09",
+    "T-10",
+    "T-11",
+    "T-12",
+    "T-13",
+    "T-14",
+    "T-15",
+    "T-16",
+    "T-17",
+    "T-18",
+    "T-19",
+    "T-20",
+    "T-21",
+    "T-22",
+    "T-23",
+    "T-24",
+    "T-25",
+    "T-26",
+    "T-27",
+    "C-01",
+    "C-02",
+    "C-03",
+    "C-04",
+    "C-05",
+    "C-06",
+    "C-07"
+   ],
+   "nota": "L-01 liquidada (ps); TIER 0 (T-01 ceremonia) gobierna T-02..T-27"
+  },
+  {
+   "id": "delta-v5-20261104",
+   "nodos": [
+    "T-36",
+    "T-37",
+    "T-38",
+    "T-39",
+    "T-40",
+    "T-41",
+    "T-42",
+    "T-43",
+    "T-44",
+    "T-45",
+    "T-46",
+    "T-47",
+    "T-48",
+    "T-49",
+    "T-50",
+    "T-51",
+    "T-52",
+    "T-53",
+    "C-10",
+    "L-03",
+    "L-04",
+    "CENSO-03"
+   ],
+   "enriquece": [
+    "T-11",
+    "T-17",
+    "T-20",
+    "T-31",
+    "T-33"
+   ],
+   "frontera": "T-52, T-53, L-03, L-04, CENSO-03 truncados; fuente completa: the Arm"
+  },
+  {
+   "id": "ideas-8nov-20261108",
+   "nodos": [
+    "W-01",
+    "W-02",
+    "W-03",
+    "W-04",
+    "W-05",
+    "W-06",
+    "W-07",
+    "W-08",
+    "W-09",
+    "W-10",
+    "W-11",
+    "W-12",
+    "W-13",
+    "W-14",
+    "W-15",
+    "W-16",
+    "W-17",
+    "O-01",
+    "O-02",
+    "O-03",
+    "O-04",
+    "O-05",
+    "O-06",
+    "O-07",
+    "O-08",
+    "O-09",
+    "O-10",
+    "L-01",
+    "N-01",
+    "N-02",
+    "N-03",
+    "N-04",
+    "N-05",
+    "N-06",
+    "N-07",
+    "R-01",
+    "R-02",
+    "R-03",
+    "R-04",
+    "R-05",
+    "R-06",
+    "R-07",
+    "R-08",
+    "R-09",
+    "R-10",
+    "R-11",
+    "R-12",
+    "R-13",
+    "R-14",
+    "R-15",
+    "R-16",
+    "R-17",
+    "R-18",
+    "R-19",
+    "R-20",
+    "R-21",
+    "R-22",
+    "R-23",
+    "R-24",
+    "R-25"
+   ],
+   "frontera": "A-01/A-02 NO_DATA fuera del censo 60"
+  }
+ ],
+ "aristas": [
+  {
+   "de": "W-05",
+   "a": "T-42",
+   "nota": "sellar al fusionar"
+  },
+  {
+   "de": "W-06",
+   "a": "T-44",
+   "nota": "letras reservadas"
+  },
+  {
+   "de": "W-12",
+   "a": "T-05",
+   "nota": "fecha del tablero"
+  },
+  {
+   "de": "O-07",
+   "a": "T-13",
+   "nota": "dos-13"
+  },
+  {
+   "de": "O-09",
+   "a": "T-01",
+   "nota": "ceremonia"
+  },
+  {
+   "de": "O-04",
+   "a": "delta-v5:frontera",
+   "nota": "re-sirve la frontera truncada"
+  },
+  {
+   "de": "L-01(8nov)",
+   "a": "L-01(v4)",
+   "nota": "cede si the Arm la reclama"
+  },
+  {
+   "de": "T-36",
+   "a": "T-11"
+  },
+  {
+   "de": "T-37",
+   "a": "T-20"
+  },
+  {
+   "de": "T-38",
+   "a": "C-10",
+   "nota": "abre CENSO-03"
+  },
+  {
+   "de": "T-40",
+   "a": "T-19",
+   "nota": "se distingue"
+  },
+  {
+   "de": "T-47",
+   "a": "T-18",
+   "nota": "se distingue"
+  },
+  {
+   "de": "T-50",
+   "a": "T-48"
+  },
+  {
+   "de": "T-51",
+   "a": "T-33"
+  },
+  {
+   "de": "T-52",
+   "a": "T-31"
+  },
+  {
+   "de": "R-01",
+   "a": "CONTRACT.md:enmienda-20261108"
+  },
+  {
+   "de": "R-18",
+   "a": "CONTRACT.md:enmienda-20261108"
+  },
+  {
+   "de": "N-07",
+   "a": "CONTRACT.md:enmienda-20261108"
+  }
+ ],
+ "estados": {
+  "medidos_hoy_20261108": {
+   "W-01": "servido juez (acta 6720464750)",
+   "W-09": "servido juez (acta 6720464750)",
+   "W-10": "servido juez (acta 6720464750)",
+   "R-05": "enriquecido juez (acta 6720464750)",
+   "W-06": "aterrizado web#751 (84eecf4a)",
+   "N-07": "aterrizado web#751 (84eecf4a)",
+   "W-08": "aterrizado web#752 (c016e64b, 11:08Z)",
+   "W-04": "en cola web#753 (ecd59028, valla verde, FIRMA bis regla 3)",
+   "R-17": "en cola web#754 (15ab8c8c, FIRMA servida 11:01Z, valla caducada; desbloqueo workflow_dispatch pr=754)",
+   "O-02": "companion aterrizado (dc94b727); babel NO_DATA sin medir",
+   "N-02": "reclamado por el juez: este fichero es la pieza"
+  },
+  "resto": "NO_DATA hasta medir (regla del indice: una fila, una casa)"
+ },
+ "puertas_declaradas": [
+  {
+   "id": "juego",
+   "fuente": "la biblia thegame (canon FIRMO)"
+  },
+  {
+   "id": "BABEL",
+   "fuente": "O-10"
+  }
+ ],
+ "puertas_nuevas_20261108": [
+  "D-01 w04-verificacion-238",
+  "D-02 state-app-reanclaje",
+  "D-03 ceremonia-valla"
+ ]
+}
