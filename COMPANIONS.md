@@ -1,5 +1,9 @@
 # COMPANIONS.md — the registry
 
+Census freshness (row W-12 of the compact doctrine): measured 2026-11-08. Every
+row carries its own measurement date in Declared and Measured; a figure without
+a date is NO_DATA with cause.
+
 | Companion | Project | Declared | Measured state | Status |
 |-----------|---------|----------|-----------------|--------|
 | [Aimilios94](https://github.com/Aimilios94) | Receipt Ghostbuster — personal money assistant; the Official Demo Node candidate | signed declaration landed via [#3](https://github.com/piskyRpapalo/preceptoros-companion/pull/3) (head `f3a61d35`, 2026-11-04) | M1 (dev workstation, CPU-only) · qwen2.5vl-receipt: 86.6% field accuracy, $0.0000/read, p50 270s (2026-11-03, commit `9e39cab`, benchcard in lab/) · tests 302 passed (2026-11-03, `2309342`) | registered 2026-11-05 · STATE.md is append-only; new figures arrive by measurement |
