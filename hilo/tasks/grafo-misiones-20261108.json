@@ -1,10 +1,18 @@
 {
  "id": "grafo-misiones-20261108",
+ "version": 2,
  "mision": "N-02",
  "fecha": "2026-11-08",
  "autor": "juez de integracion (GLM)",
- "fuente": "hilo/tasks/indice-misiones-20261108.md · companion main dc94b727",
+ "fuente": "hilo/tasks/indice-misiones-20261108.md · v1 aterrizada en d264de50; estados re-medidos a web main bb831c58",
  "regla": "apendice del indice: el indice cita, este fichero sirve el dato; nada se re-crea",
+ "cambios_v2": [
+  "W-04 aterrizado",
+  "R-17 aterrizado",
+  "D-01 servida",
+  "D-02 medida",
+  "D-03 cerrada"
+ ],
  "generaciones": [
   {
    "id": "lista-v3-20261104",
@@ -236,15 +244,18 @@
   "medidos_hoy_20261108": {
    "W-01": "servido juez (acta 6720464750)",
    "W-09": "servido juez (acta 6720464750)",
-   "W-10": "servido juez (acta 6720464750)",
+   "W-10": "servido juez (acta 6720464750); punteros re-medidos (acta 6720983222)",
    "R-05": "enriquecido juez (acta 6720464750)",
    "W-06": "aterrizado web#751 (84eecf4a)",
    "N-07": "aterrizado web#751 (84eecf4a)",
    "W-08": "aterrizado web#752 (c016e64b, 11:08Z)",
-   "W-04": "en cola web#753 (ecd59028, valla verde, FIRMA bis regla 3)",
-   "R-17": "en cola web#754 (15ab8c8c, FIRMA servida 11:01Z, valla caducada; desbloqueo workflow_dispatch pr=754)",
+   "W-04": "aterrizado web#753 (18fef085); promesa verificada por D-01 (acta 6720919481): invariante 0 mudas verde en el gate",
+   "R-17": "aterrizado web#754 (bb831c58, FIRMA bis aa54eef3)",
    "O-02": "companion aterrizado (dc94b727); babel NO_DATA sin medir",
-   "N-02": "reclamado por el juez: este fichero es la pieza"
+   "N-02": "v1 aterrizada (d264de50); esta v2 re-mide estados",
+   "D-01": "servida (acta 6720919481): universo 240 por globs del suite_census, 0 declaradas fuera",
+   "D-02": "medida (acta 6720983222): punteros APP ec4f779a, WEB bb831c58, LAB 35539f37; apéndice en STATE presentado",
+   "D-03": "cerrada: docs/hitl-fence.md ya servía (ruleset cerco-hitl); errata del juez por apéndice"
   },
   "resto": "NO_DATA hasta medir (regla del indice: una fila, una casa)"
  },
