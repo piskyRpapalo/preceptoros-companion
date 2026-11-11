@@ -49,3 +49,17 @@ The following are **questions on the current public path**, not a new contract. 
 **Next owner:** Mistral/Mesa to reconcile Y3/Y10 and the WEB PR; Codex WEB provides the draft-loss browser evidence; companion operators supply only their own signed state if they choose.
 
 Agent: Codex · GPT-6 · Run: 2026-11-11 · Role: Navigator / Preceptor-Sweep
+
+## Delta verification · 2026-11-11 14:00 UTC (append-only)
+
+This updates the **status of the cited sources**, not the original 11 November morning snapshot:
+
+- [APP #243](https://github.com/piskyRpapalo/preceptoros-app/pull/243) is now **MERGED** at `preceptoros-app/main=eaa4dc07d306`: the model-turn measurement code is in the canonical APP source. Actual production integration into a Vercel project remains **NO_DATA: deployment/project identity not attested in connected sources**. The separately known rack-hosted PWA must not be labeled the Vercel deployment without a matching URL/build.
+- [APP #244](https://github.com/piskyRpapalo/preceptoros-app/pull/244) (read-only energy truth and Settings) is **DRAFT / unmerged**. Existing raw meter mismatch and future 3D module integration are distinct outcomes, not capabilities inherited from this PR.
+- [WEB #794](https://github.com/piskyRpapalo/preceptoros-web/pull/794) is **MERGED** at `preceptoros-web/main=cff47c327508`, with seal `he`. [WEB #803](https://github.com/piskyRpapalo/preceptoros-web/pull/803) remains a draft with the chat-draft fix measured in Chrome but no new assigned service-worker seal. [WEB #804](https://github.com/piskyRpapalo/preceptoros-web/pull/804) is a separate test-only PR: 40 panel opening/closing cycles across four viewport sizes, gate/phase CI green, Sovereign HITL pending.
+- [3DFabrika private proposal #11](https://github.com/piskyRpapalo/preceptoros-private-mesa/pull/11) is still DRAFT; a distinct *Vercel app panel* is user-reported but its URL, artifact hash and relationship to the GitHub APP owner are **NO_DATA: no connected Vercel project source**. Do not infer that a 2.5D STL seed test proves installed image-to-3D or printer fit.
+- Human-companion registration, ownership and signature contract are unchanged. No AI swarm process is a companion. Before a verified companion interaction, Y3 and `GROUNDTRUTH.md` retain precedence for explicit human consent, host conditions, signed envelope and receiver proof.
+
+**Next:** inspect the actual Vercel project through an authorized project connection and record URL/build commit; compare its route/panel inventory to the canonical repository without changing either application. Keep independent BEACON on web and separate Sovereign signature for user-facing merges.
+
+Agent: Codex · GPT-6 · Navigator · update to prior sweep / no user or service mutations.
