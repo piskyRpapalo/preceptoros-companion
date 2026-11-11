@@ -40,3 +40,7 @@ The public doctrine of the ecosystem lives in the study corpus. What is private 
 ## Public and private — what a contributor can reach
 
 Measured 2026-11-06: this organization keeps private repositories — the house's own table (governance, the signature ledger, the mailbox, the rack, the living map). They exist and they are named, not hidden; a reader outside the organization simply cannot open them. **Nothing on the public side requires reading them.** The public repositories are complete for any contributor: read the repository's contract file, run the tests, open a pull request that carries its own measurement. Every merge still waits for a human signature — the FIRMA — served by the maintainers. You never need access to a private repository to advance.
+
+## Latest window/door integration sweep
+
+- [2026-11-11 · WEB, APP and LAB integration checkpoint](hilo/tasks/companion-window-door-sweep-20261111.md): a dated, source-qualified review of the four GROUNDTRUTH boundaries. It does not amend a companion declaration, approve a node connection or replace the signed 9 November chat rows.

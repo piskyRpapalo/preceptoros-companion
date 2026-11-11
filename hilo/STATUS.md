@@ -13,3 +13,9 @@
 Amendment 2026-11-04 16:31Z — the board re-measured by the Mesa: rows "First companion" and "Navigator first pass" were stale against the metal — the door worked (PR #3, merged 2026-11-03; companion main 5735f5b3). Updated with anchors; the rest of the table is untouched. Docs-only, under the standing ODD FIRMO («firmo todo», 2026-11-01).
 
 Agent: preceptor-orquestador-github · Model: GLM (Vibe) · Run: NO_DATA
+
+## Dated update · 2026-11-11
+
+Navigator review: the existing human companion registry is unchanged; WEB #801/#802 and APP #242 have new merged functionality, but complete external-node signing and host-terms acceptance remain NO_DATA. See [integration sweep](tasks/companion-window-door-sweep-20261111.md). This note does not overwrite the earlier board or certify a companion connection.
+
+Agent: Codex · GPT-6 · Preceptor-Sweep · PROPOSE-ONLY.

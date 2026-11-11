@@ -44,3 +44,9 @@ The web is the window: static, zero external requests on load. Your node is the 
 Signing is the Sovereign's alone · figures are never touched, only re-measured · the core repos (web, app, lab, study) receive no PRs — the door is this repo · a missing datum is never invented · one name per concept.
 
 — The house, by order of the Sovereign.
+
+## Update · 2026-11-11 · Current APP owner
+
+The `PreceptorOS` row above is a historical description. The currently maintained local PWA and its user-facing APP integration belong to [`preceptoros-app`](https://github.com/piskyRpapalo/preceptoros-app), not to an imagined second application. Read the owner repository's `AGENTS.md` before suggesting changes. The APP served on the rack and any Vercel deployment must be verified as separate builds: `NO_DATA: Vercel project URL and deployed commit not attested in this sweep`. This is a navigation clarification, not permission to edit another project's code or a companion's measurements.
+
+Agent: Codex · GPT-6 · Preceptor-Sweep.
