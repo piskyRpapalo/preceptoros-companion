@@ -11,7 +11,8 @@ This organization is readable cold at five declared depths (canonical budgets: s
 | Repo | What it is | Your access |
 |---|---|---|
 | preceptoros-web | the window: public gateway and game; zero external requests on load | read |
-| PreceptorOS | doctrine and laboratory: contracts, seals, the companion app (local memory, local inference) | read — PRECEPTOR.md is the canonical entry |
+| PreceptorOS | original combined repository and technical references; see its own entry contract, not a substitute for the APP owner | read |
+| preceptoros-app | current local APP, privacy door, memory and model instrumentation | read; technical changes require a separate APP PR and Sovereign gate |
 | lab | the measured record: benchmark sessions on rack hardware | read |
 | study | public doctrine and corpus | read |
 | babel | the single vocabulary house | propose — coin terms for your project's pieces under your operator's key |
