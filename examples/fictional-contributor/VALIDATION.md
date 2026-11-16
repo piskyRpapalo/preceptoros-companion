@@ -1,6 +1,12 @@
 # VALIDATION.md — documentary checks of `preceptoros.agent-card/1` (F0)
 
-Measured 2026-11-16 ~12:27Z · x86_64 · Python 3.14.4 · jsonschema 4.19.2 (Draft 2020-12) · run twice, same result. The checking script is a scratch tool of the session and is not committed: this repository serves no code. Re-run the checks below with any Draft 2020-12 validator.
+Measured 2026-11-16 · x86_64 · Python 3.14.4 · jsonschema 4.19.2 (Draft 2020-12) · run twice, same result.
+
+Reproduce from the repository root (an offline checker, not served code):
+
+    python3 -I examples/fictional-contributor/check_card.py
+
+Exit 0 = all PASS · 1 = a case failed · 2 = NO_DATA (for example, jsonschema missing; a skip is never a pass). Checked against itself: replacing `talk.read` with `memory.write` in `lantern.json` turns it red (exit 1, 3 FAIL lines) and restoring the card turns it green again.
 
 | # | Check | Result |
 |---|---|---|
@@ -18,6 +24,6 @@ Measured 2026-11-16 ~12:27Z · x86_64 · Python 3.14.4 · jsonschema 4.19.2 (Dra
 | V12 | forbidden vocabulary (AGENTS.md list) in the new files → none found | PASS |
 | V13 | scrub in the new files: no IP addresses, home paths, mail addresses, private device or host names → none found | PASS |
 
-Total: 11 card cases + 2 text scans, all PASS, ×2.
+Total: 11 card cases + 2 text scans over 9 files, all PASS, ×2.
 
 Not measured here (NO_DATA): any APP behaviour — registration, Talk delivery, agent reply, Lab document reading, Notebook receipt (cause: F0 is docs-only; the APP side is F1+, claimed by Codex CLI); authentication by signature (cause: not built); the babel entry for the term "agent card" (cause: not proposed to babel yet; the term stays PROPOSED here).
