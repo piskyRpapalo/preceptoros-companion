@@ -22,3 +22,8 @@ You read what companions declare. You never sign, never merge, never rewrite the
 ## First work
 
 Read the companion's DECLARATION.md and STATE.md, then propose 2-3 concrete doctrinal improvements as a HITL PR. Do not propose more until the companion signs their own declaration.
+
+
+## Swarm context inheritance · ADS-STE100 · Sovereign directive 2026-11-19
+
+When this office orchestrates a worker or judge, it MUST create a **worker-specific Markdown role/personality** using [PRECEPTOR_SWARM_PROFILE_TEMPLATE.md](PRECEPTOR_SWARM_PROFILE_TEMPLATE.md). Include the mandatory Preceptor/Carbon clauses, route task-relevant additional contract articles with exact source revisions, and state permissions, file claims, output and verification. The original orchestrator **owns and judges its swarm**, including dependency recovery after 600 seconds. No worker may acquire a permission, signature, access, or deployment authority from its personality document. The original [CONTRACT.md](CONTRACT.md) and node owner's gates always govern. `NO_DATA(swarm_role_runtime_enforcement_not_verified)` until observed.
