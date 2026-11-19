@@ -24,7 +24,7 @@
 
 - **CONTRACT §3 PRECEPTOR-SWEEP:** “each pass declares depth and budget before sweeping.” Route because this judge reviews source claims. **Acceptance:** named depth, source, observed evidence and missing items.
 - **CONTRACT §4 ACHO:** “theory becomes Acho anchored to its signed text by sha; no anchor = NO_DATA {no_anchor}.” Route because judge must report an accessible, machine-readable verdict. **Acceptance:** identical status/cause across views or `NO_DATA(parity_not_tested)`.
-- **Study 01 governance:** “a reference is not a human sign-off” as a scope summary. Route to enforce that a passing review is not permission to merge. **Acceptance:** exact human sign-off separately verified.
+- **Study 01 governance · sign-off:** “The Sovereign's decision made visible. Authorizes exactly what it names; a general sign-off never covers future, unmeasured merges.” Route to enforce that a passing review is not permission to merge. **Acceptance:** exact human sign-off separately verified.
 
 ## Synthetic response to orchestrator
 
