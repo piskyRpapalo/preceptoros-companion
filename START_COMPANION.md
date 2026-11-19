@@ -6,14 +6,14 @@ A Companion is a **person with their own project and tools**. The house reads on
 
 ## Step 1 · Get the app or use the manual door
 
-Open [Get the app](https://preceptoros.org/get-the-app/) and choose your device. An available download is not proof of a fully tested independent installation.
+Open [Get the app](https://preceptoros.org/get-the-app/) and choose your device, but verify the file and product before installing. A published download is not proof of an independent person's complete installation.
 
 - **Linux:** an installer is offered; the APP's isolated-home source smoke was measured, but not an independent collaborator's complete install.
 - **Windows:** an installer is offered; **NO_DATA(windows_installer_E2E_unverified)**.
-- **Android:** the linked APK is an **OpenWorld Trusted Web Activity**, not the base AI APP; **NO_DATA(android_base_app_not_published)**.
+- **Android · native MINI (verified release, 2026-11-19):** use the [official Android v7 release](https://github.com/piskyRpapalo/preceptoros-app/releases/tag/android-mvp-v7-20261119), not the legacy OpenWorld wrapper. The native APK is `PreceptorOS-android-0.3.0-v7.apk` (155,998,639 bytes; SHA-256 `9c4d227db2ba395cdb232bdd3eb6a52f83d344f3386a99bb5274d42837eebe6b`; `org.preceptoros.app`, versionCode 7). It includes the six-panel APP, local Mini routing and an embedded SmolLM2-135M GGUF / ARM64 inference engine. Physical S110 inference was observed; do not assume another phone passed the same tests. As checked on 2026-11-19, the public `/get-the-app/` page **still linked to legacy Android 1.0.1 TWA**, so the release URL above is the verified native choice until a fresh web check demonstrates otherwise.
 - **Your model and tools:** you may use your own agent, local model or external provider. **Hexelion is not required**. Do not provide the house with private endpoint addresses or credentials.
 
-If your installed APP has **Settings → Node identity → Join as a Companion**, its export prepares a local draft only. If this feature is absent, follow the same steps manually. No APP version, installer or website publication is attested by this guide.
+If your installed APP has **My node → Node identity** (or the corresponding Settings entry in an older build), save your local Companion draft there. A local draft, public declaration or downloaded APK is **not** an approved or LIVE node. If this feature is absent, follow the same steps manually. Public node admission and signed provisioning remain separately gated. For the first four collaborators, read the [dated Companion field guide](FIRST_FOUR_COMPANIONS_20261119.md), including why a separate WhatsApp GGUF does not need to be imported into Android v7.
 
 ## Step 2 · Prepare only public facts
 
