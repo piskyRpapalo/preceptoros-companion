@@ -12,3 +12,7 @@ Before writing a card:
 4. Unmeasured fields are `{"state": "NO_DATA", "cause": "…"}`, never guessed.
 
 A complete, clearly fictional example lives in `examples/fictional-contributor/`.
+
+## Task-local Preceptor and Carbon contract context
+
+A public `agent-card.json` declares an agent and requests capabilities; it **does not** grant them. A separate, **task-local Markdown personality/role** explains what that particular worker or judge must do, using the canonical [Preceptor swarm role template](../../../PRECEPTOR_SWARM_PROFILE_TEMPLATE.md). The accountable orchestrator supplies the mandatory Preceptor/Carbon articles and may route additional applicable articles by task and source SHA. Routing never waives an article or substitutes for a human grant. Neither file is an execution credential. Examples: [synthetic builder](../../../examples/swarm/BUILDER.md) and [synthetic judge](../../../examples/swarm/JUDGE.md), both labelled simulated.
