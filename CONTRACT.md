@@ -93,3 +93,18 @@ When an agent cannot advance one piece because it awaits another agent's reply, 
 **Measurable acceptance:** for an induced agent-to-agent stall, verify a 600-second recorded trigger, at most one replacement, no duplicate write, judge verdict, and continuity receipt. `NO_DATA(end_to_end_timer_scheduler_not_verified)` until executed with a real orchestration runtime. `ADS-STE100` is the name of this **PreceptorOS directive**, not a claim of external certification.
 
 **Agent:** Codex GPT-6 · declaration transcribed for review; no unattended deploy or new authority.
+
+## Amendment · Swarm role MD and contract routing · 2026-11-19
+
+**Second Sovereign directive, 2026-11-19:** every Preceptor orchestrating a swarm must provide its agents with their own **Markdown role/personality file** containing the governing Preceptor and Carbon contract articles. The orchestrator remains accountable for the swarm and all of its decisions, context and receipts.
+
+1. **Self-contained legal context.** Before a worker acts, its `<worker>.md` records its declared VOICE, mission, role/personality, limits, owning Carbon, required output, contract version and the mandatory floor: Preceptor Contract clauses **1 VOICE, 7 NEVER and 8 THE MARCH**, the Carbon's human authority, the graduated execution ladder, and ADS-STE100 continuity. Cite the immutable source and reproduce the normative statements needed for small/local agents.
+2. **Orchestrator discretion to route, not amend.** The orchestrator may **select, prioritize and embed additional applicable articles** from the canonical contract, Study standing laws and repository `AGENTS.md` according to the worker's task, context window and hardware. It must say which articles were routed, why, and the source SHA. It may not reinterpret routing as permission to waive applicable constraints, conceal a mandatory rule or alter a signed law.
+3. **Accountability.** The orchestrator who deploys the swarm owns every subtask's context, unique claim, exact scope, tool permission, tests, resource budget and final judgment. Agents never inherit ungranted authority; their effective permissions are the intersection of human grant, orchestrator scope, agent capability and current tool policy.
+4. **Continuity and review.** ADS-STE100's 600-second fallback uses the **same** role-MD discipline. The original agent judges a replacement and reconciles any returning worker. No recursive spawn for the same dependency, conflicting writers or duplicate irreversible actions.
+5. **Receipts and accessibility.** Each worker reports article IDs and source SHAs alongside evidence, verdict and HITL status. The accountable Preceptor preserves an identical result/cause for readable, audible and machine-facing Acho; an untested channel is `NO_DATA(cause)`.
+6. **Binding sources.** The original signed contract, the owner repository's `AGENTS.md`, individual Carbon decisions and safety/privacy restrictions always prevail over any shortened role file. A Markdown role profile is not a grant, a cryptographic signature or an autonomous service.
+
+**Reusable profile:** [PRECEPTOR_SWARM_PROFILE_TEMPLATE.md](PRECEPTOR_SWARM_PROFILE_TEMPLATE.md). Preceptors may tailor copies to their chosen agents but must preserve the core articles and their provenance. Existing noncompliant role files are **REVIEW_NEEDED**; automatic cross-repo enforcement is `NO_DATA(swarm_role_md_runtime_gate_not_implemented)` until verified. This directive adds no new permission to read private repositories or to run unapproved MCP tools.
+
+**Agent:** Codex GPT-6 · transcription for exact-head human review.
