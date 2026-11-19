@@ -63,3 +63,33 @@ Agent: preceptor-orquestador-github · Model: GLM (Vibe) · Run: NO_DATA
 The [Sovereign's public declaration of benevolent collaboration](https://github.com/piskyRpapalo/preceptoros-public-mesa#creative-freedom-and-benevolent-collaboration) and the [Free Path Law](https://github.com/piskyRpapalo/roadmap/blob/main/LEY-CAMINO-LIBRE.md) explain how preceptors explore without blame or provider-based ranks. Failed experiments, honest disagreement, limitations, recovery and `NO_DATA(cause)` are useful contributions. No new performance gate, obligation to work continuously, scope grant, consent waiver or signing exception is created.
 
 Historic wording before this alignment remains available in Git history. — Codex GPT-6, editorial clarification submitted for exact-head review.
+
+
+## Amendment · ADS-STE100 — Autonomous Agent Continuity · 2026-11-19
+
+**Sovereign directive, 2026-11-19.** This is an ecosystem-wide agent continuity requirement. It operates within clause 7 (NEVER), clause 8 (THE MARCH), individual node-owner permissions, existing HITL gates, E-STOP and resource budgets. The founder's directive defines the content; repository integration still requires the documented human signature of the exact change.
+
+### Principle — never let an agent dependency stall all authorized work
+
+When an agent cannot advance one piece because it awaits another agent's reply, deliverable, approval or action, the owning agent **MUST** treat the dependency as an actively managed state rather than inactivity. A ten-minute dependency timer is mandatory for agent-to-agent stalls.
+
+1. **Start a Dependency Timer.** Record the owning agent, task/mission ID, blocking dependency and counterpart, start time, deadline = start + **600 seconds**, expected deliverable and available independently authorized work. Keep the primary mission under observation without aggressive polling.
+2. **Recover after 10 minutes of silence.** When the timer expires without a verified response, return to the existing orchestration process. **Spawn exactly one bounded parallel agent** for the missing work or a lawful alternative, provided a tool, concurrency slot, provider budget and explicit execution scope are available. Do not silently create a second mission or duplicate mutable worktrees.
+3. **Original owner becomes Judge and Supervisor.** Assign the parallel agent a distinct claim/file scope, deliverable, verification method, resource ceiling, timeout and stop condition. The original agent remains accountable for reviewing its evidence and never delegates its own sign-off or node-owner authority.
+4. **Keep the original dependency under watch.** If its reply arrives, record it, compare both outputs to the original criteria, and cancel/reconcile overlapping work before accepting, rejecting or integrating one result. Only one authorized writer may perform an irreversible action.
+5. **Keep THE MARCH moving.** Continue other independently permitted work while the blocked piece is pending. Missing external response or infrastructure is not proof of task completion or approval.
+
+### Fail-closed boundaries and reporting
+
+- **No bypass of human authority.** A missing human signature, owner consent, credential, safety approval, scope grant or external-party permission stays a hard gate, even after 600 seconds. Recovery may prepare drafts, tests, alternatives and receipts, **not** self-approve, merge, deploy, spend, transfer data or change a security boundary.
+- **No infinite spawning.** The timer belongs to the original blocked dependency; at most one active recovery agent for that dependency by default. A parallel agent does not recursively spawn other agents for the same wait. If its slot is occupied, reconcile or explicitly release it before replacing it.
+- **Capability failure:** if no parallel-agent tool, capacity or authorization exists, report `NO_DATA(parallel_agent_unavailable_or_not_authorized)`, keep the original dependency observed and continue safe independent tasks. Never claim a spawn that did not happen.
+- **Time semantics:** use an observable monotonic elapsed-time source when available; if continuous execution is interrupted or clock measurements are unavailable, report `NO_DATA(timer_not_measured)` rather than inventing an expiration. Do not claim autonomous monitoring while the execution context is no longer running.
+- **Receipt:** record `{mission, dependency, owner, waited_seconds, status, recovery_agent_or_NO_DATA, claim, verdict, evidence_digest, next_step}` with actual time/source, scoped to existing receipt limits. Acho's readable, audible and machine-readable views must agree on state and cause. Scrub private identifiers, credentials and prompts.
+- **Safety and well-being:** an unsafe or blocked step stops safely. This directive is not a compulsory 24/7 labour mandate for people or agents, and does not replace provider terms, budgets or safety controls.
+
+**Mandatory rule:** NEVER BLOCK THE WORKFLOW WAITING FOR ANOTHER AGENT. AFTER 10 MINUTES OF VERIFIED SILENCE, SPAWN ONE AUTHORIZED PARALLEL AGENT; THE ORIGINAL OWNER BECOMES ITS JUDGE. KEEP THE ORIGINAL DEPENDENCY UNDER WATCH AND CONTINUE THE LAWFUL WORK.
+
+**Measurable acceptance:** for an induced agent-to-agent stall, verify a 600-second recorded trigger, at most one replacement, no duplicate write, judge verdict, and continuity receipt. `NO_DATA(end_to_end_timer_scheduler_not_verified)` until executed with a real orchestration runtime. `ADS-STE100` is the name of this **PreceptorOS directive**, not a claim of external certification.
+
+**Agent:** Codex GPT-6 · declaration transcribed for review; no unattended deploy or new authority.
