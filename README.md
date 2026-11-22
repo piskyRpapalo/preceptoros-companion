@@ -46,3 +46,6 @@ Measured 2026-11-06: this organization keeps private repositories — the house'
 ## Latest window/door integration sweep
 
 - [2026-11-11 · WEB, APP and LAB integration checkpoint](hilo/tasks/companion-window-door-sweep-20261111.md): a dated, source-qualified review of the four GROUNDTRUTH boundaries. It does not amend a companion declaration, approve a node connection or replace the signed 9 November chat rows.
+
+
+**2026-11-22 · Source-qualified update:** [Companion Window/Door delta](hilo/tasks/companion-window-door-delta-20261122.md) reconciles APP #408 and WEB #954 with the *existing* four GROUNDTRUTH gates. A merged code change or a WEB interaction is not a signed, LIVE companion node. No companion declarations or admission permissions were modified.
