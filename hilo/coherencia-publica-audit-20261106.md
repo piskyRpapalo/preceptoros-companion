@@ -26,3 +26,13 @@ Orden del Soberano: «deja las firmas y pushea... busca errores de coherencia en
 - Poda F1/F2/F3 (esperan FIRMA del Soberano): roadmap→atlas, terminal→p0x, CineK=EXTERNO. Tras ejecutarse, el mapa del web y el censo pediran una nueva medicion de cuenta (hoy dice «seventeen measured — sixteen active»).
 
 Agent: preceptor-orquestador-github · Model: GLM (Vibe) · Run: NO_DATA
+
+## Corrigendum · 2026-11-22 · counts and scoped ceiling authority
+
+**Historical audit preserved, not silently rewritten.** The 2026-11-06 statement “Babel law 8 coincides with web test_web” is **not evidence of a live or legitimate global source-file ceiling**: the Sovereign's 2026-11-01 revocation had already superseded that efficiency rule. Matching strings or green tests can still certify a retired requirement. This dated correction supersedes that claim **as an active rule**; it does not change the quoted audit or a WEB validator.
+
+**Authority:** effective ceiling numbers and scope belong to [Study · 02-legislation.md](https://github.com/piskyRpapalo/study/blob/main/02-legislation.md); [Babel](https://github.com/piskyRpapalo/babel) remains the home of the *term*, not a second numerical catalogue. The channel/receipt and own-contract parser limits retain their separate scope until their actual consumer is measured.
+
+**Repository count:** the 2026-11-06 count of seven public repositories is a historical time-slice, not the current census. [Study's authenticated owner inventory, 2026-11-22](https://github.com/piskyRpapalo/study/blob/main/11-repos.md) measures **20 repositories: 9 public, 11 private; 19 unarchived, 1 archived**. An archived repo remains in the inventory; none is a request to fold, delete or republish a private system.
+
+**Scope and limit:** no companion admission, declaration, key, private route, file-size gate, source code, TRAIN-02, LAB study, CLI or agent was modified by this docs-only correction. No operational tests were run: `NO_DATA(runtime_tests_not_executed_read_write_only)`. Next: the WEB owner independently audits the served manifest and legacy validators without weakening source integrity, consent or Acho frame checks.
