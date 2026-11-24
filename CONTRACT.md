@@ -108,3 +108,28 @@ When an agent cannot advance one piece because it awaits another agent's reply, 
 **Reusable profile:** [PRECEPTOR_SWARM_PROFILE_TEMPLATE.md](PRECEPTOR_SWARM_PROFILE_TEMPLATE.md). Preceptors may tailor copies to their chosen agents but must preserve the core articles and their provenance. Existing noncompliant role files are **REVIEW_NEEDED**; automatic cross-repo enforcement is `NO_DATA(swarm_role_md_runtime_gate_not_implemented)` until verified. This directive adds no new permission to read private repositories or to run unapproved MCP tools.
 
 **Agent:** Codex GPT-6 · transcription for exact-head human review.
+
+
+## Amendment · GitHub execution after owner HITL-GOAL · 2026-11-24
+
+**Source:** Sovereign directive in the 2026-11-24 Codex WEB session: «Todos los preceptores deben tener permiso de edición en GitHub. El soberano (yo) no debe tocar código, ni push. Una vez HITL-GOAL está escrito». This is the desired operating model, **not by itself an authenticated GitHub owner comment, an individual provider grant, an exact-head signature, or an enabled global merger**. See [Private Mesa #51](https://github.com/piskyRpapalo/preceptoros-private-mesa/issues/51).
+
+### Separation of roles (binding intention)
+
+1. **Sovereign / Carbon** — decides the objective, authorizes a bounded HITL-GOAL in the *existing* owner-authenticated signing route, may revoke/stop it, and evaluates results. **No writing program code, branch commits, git push or human-operated merge/deploy is required from the Sovereign after the applicable GOAL has been accepted by the destination**. The Sovereign can still choose to intervene or revoke.
+2. **Preceptor / executor** — can inspect, edit, test, commit, push its owned branch, update/open a PR and leave a provenance receipt when its GitHub identity/installation has repository write access. An agent may also perform a **merge or deployment already covered by the GOAL** only if the destination's existing gate, effective permission and deployment fence recognize that grant. Execution is not the owner's signature.
+3. **All preceptors eligible to edit** — no blanket ban based on AI provider, interface (WEB/CLI/local), device or agent family. Actual grants are **per verified actor and permitted repository/mission**, not automatic admin or access to every private repo. An archived repo stays read-only until deliberately restored; revoked actors have no residual entitlement.
+4. **Grant envelope** — reuse the existing HITL-GOAL/DELEGADA or exact-head mechanisms. At minimum record owner-authenticated origin, goal ID, actor identity, repository list, allowed branch patterns and paths, operations (write/PR/merge/deploy separately), expiry, resource budget, E-STOP/revocation, and receipt destination. A text label or agent-authored imitation of the owner's GitHub account is not proof of approval. Do not create another signature service.
+5. **After acceptance** — the executor owns the full `branch → checks ×2 → PR → authorized merge → actual publish → readback` sequence as covered; no repeated Carbon edits or pushes. Stop only the specific act whose permission, authorisation, privacy preflight, version pin or check is missing; continue independent work.
+6. **Safety remains** — owner/node consent, existing technical NO-PUSH fences, protected-branch rules, secret/SCRUB checks, external-provider limits, independent review where contractual, no self-sign, no force overwrite, scope-bound revocation and fail-closed results are unchanged. Jetson is not universally prohibited; its effective transport and host permissions still have to be verified.
+7. **Receipts and Acho** — report `goal_id, actor, repo, base/head, action, evidence, result, cause, UTC` within the existing compact receipt budget. Visual, audible and machine readers see identical authorization and effect states. Code in `main`, deployed code and E2E must not be conflated.
+
+### Current implementation and acceptance (as of this amendment)
+
+- WEB `atlas/hitl_fence.py` already supports an **authenticated owner HITL-GOAL restricted to scoped networking changes in preceptoros-web**. It is **not** a generic all-repository goal. Keep it in place until tested changes extend its recognized scope.
+- The linked GitHub integration reports repository write/admin rights for the **connected owner account**, not verified separate per-preceptor identities. `NO_DATA(preceptor_specific_git_credentials_and_attribution)`.
+- The Codex WEB native MCP allowlist currently permits scoped branches and draft PRs but forbids a merge; `NO_DATA(preceptor_native_merge_credential_or_policy_migration)`. Never bypass it with an alternate token or API.
+- `preceptoros-coder` is archived in GitHub and therefore read-only even though the connected account reports push permission. `NO_DATA(authorised_unarchive_decision)`.
+- **Acceptance:** one named preceptor with independently verified writable identity produces branch + commit + PR, two test runs, then (within an owner-authenticated GOAL and an effective destination gate) a merge and release with readback; an out-of-scope agent is denied, revocation stops future effects, and the owner performs no code edit/push. Perform negative tests and document final SHAs. Until then, `NO_DATA(cross_repo_preceptor_git_goal_E2E)`.
+
+**Author of this proposal/transcription:** Codex GPT-6 WEB. This addendum does not modify credentials, GitHub branch rules, HITL checks, deployment pipelines or physical hosts; it cannot self-authorize its own integration.
